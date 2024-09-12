@@ -1,6 +1,9 @@
 # Workflow-example
- Fasta parser and Multiple sequence alignments
+
+Fasta parser and Multiple sequence alignments
+
 Created on Thu Oct 19 22:11:07 2023
+
 @author: MingHeng Hsiung
 
  The Fasta parser
