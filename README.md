@@ -9,6 +9,7 @@ Created on Thu Oct 19 22:11:07 2023
      python FastaParser.py text_file output_fasta_file
      
 The results will show as follows:
+
 ![image](https://github.com/user-attachments/assets/4f75cde2-2c33-434e-91d9-033aa79039ea)
 
 
@@ -23,5 +24,6 @@ Usage:
     python MSA.py -f fasta_file(change the name according to the input data) -p weight_parameters(input from the user) -o output_file(don't forget to change name   according to the infile')
 
 The results will show as follows:
+
 ![image](https://github.com/user-attachments/assets/87438ba9-ec4b-4fb7-865f-73e62b31296d)
 
