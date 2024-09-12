@@ -19,7 +19,11 @@ Multiple sequence alignments
     2. Evaluate the alignment and output two measures of the alignment quality: 
         the identity score and the alignment score of all possible pairs. 
     3. It also allows the user to determine the weight matrix. 
-       
+    
+The default values: “match score: 1; gap penalty: -1; transition: -1, transversion: -2”,the values commonly used in the alignment of closely related DNA sequences, are also the values we used in this analysis.  
+
+The Multiple sequence aligner is as follows and was written to run on the command line:
+Usage: python MSA.py -f fasta_file(change the name according to the input data) -p weight_parameters(input from the user) -o output_file       
 Usage:
     python MSA.py -f fasta_file(change the name according to the input data) -p weight_parameters(input from the user) -o output_file(don't forget to change name   according to the infile')
 
