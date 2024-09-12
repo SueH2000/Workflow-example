@@ -1,0 +1,7 @@
+match = 1
+
+gap = -1
+
+transition = -1
+
+transversion = -2
