@@ -6,6 +6,8 @@ Created on Thu Oct 19 22:11:07 2023
 
 @author: MingHeng Hsiung
 
+The entire project consists of two parts. The first part is a FASTA parser, which reads specific genetic data provided in the package and formats the output for the second part of the code. The second part performs multiple sequence alignment, aligning the sequences and calculating the score based on the parameters provided. This project can assist in conducting further phylogenetic analysis.
+
  The Fasta parser
      This is a program that writes a parser that reads the GeneticData –1.txt file and outputs two fasta files, one for mtDNA and one for the Y chromosome.
  Usage:
